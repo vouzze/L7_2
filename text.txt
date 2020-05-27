@@ -1,0 +1,11 @@
+<production number>	<title>				<weight in kg>		<production cost>		<selling price>
+1			NumOne  			6,8			$12			$16
+2			NumTwo   			6,0			$5			$6
+3			NumThree			1,2			$8			$10
+4			NumFour 			5,6			$23			$27
+5			NumFive  			7,0			$15			$18
+6			NumSix    			4,8			$17			$20
+7			NumSeven   			3,0			$3			$4
+8			NumEight 			2,2			$19			$22
+9			NumNine  			1,6			$1			$7
+10			NumTen   			5,0			$4			$9
